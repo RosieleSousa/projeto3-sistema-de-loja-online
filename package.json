@@ -1,13 +1,13 @@
 {
-  "name": "09-09-proj",
+  "name": "10-09",
   "version": "1.0.0",
   "main": "index.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-  "test": "jest"
-},
+    "test": "jest"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
